@@ -3,7 +3,7 @@
 **Tutorial how to start using NixOS on Windows with WSL**  
 ***version: 1.0.0 date: 2024-09-15 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/nixos_my_voyage_to_nixos)***  
 
-It sound like NixOS is an interesting Linux OS for easy declarative management to recreate the same OS many times. The main point is reproducibility.  
+It sounds like NixOS is an interesting Linux OS for easy declarative management to recreate the same OS many times. The main point is reproducibility.  
 Then the Nix package manager is very interesting for ephemeral installations of programs that are easily removed. Good for experimenting and testing.
 
 Let's try it out!
